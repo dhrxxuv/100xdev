@@ -1,0 +1,24 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tsoa/runtime": "^6.6.0",
+    "express": "^5.1.0",
+    "swagger-ui-express": "^5.0.1",
+    "tsoa": "^6.6.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "@types/swagger-ui-express": "^4.1.8",
+    "typescript": "^5.9.3"
+  }
+}

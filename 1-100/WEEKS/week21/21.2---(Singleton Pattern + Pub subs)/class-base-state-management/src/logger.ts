@@ -1,4 +1,4 @@
-import { game } from "./index";
+import { game } from "./store";
 
 
 export function startLogger() {

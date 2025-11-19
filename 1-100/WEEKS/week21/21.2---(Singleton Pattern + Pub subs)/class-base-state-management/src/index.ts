@@ -1,6 +1,6 @@
-import { gameManager } from "./store";
+import { game } from "./store";
 import { startLogger } from "./logger";
-export const game = new gameManager()
+
 startLogger();
 
 setInterval(() => {

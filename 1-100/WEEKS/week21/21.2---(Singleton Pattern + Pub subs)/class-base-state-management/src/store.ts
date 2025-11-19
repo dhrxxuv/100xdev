@@ -29,3 +29,5 @@ export class gameManager{
         this.games.push(game)
     }
 }
+
+export const game = new gameManager()
